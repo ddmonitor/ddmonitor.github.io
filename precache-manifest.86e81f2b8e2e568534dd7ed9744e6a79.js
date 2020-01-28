@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d519250f74fab5dd6d92",
-    "url": "/css/app.838ad54a.css"
+    "revision": "7041355b3771f2c2e3f5",
+    "url": "/css/app.7927853f.css"
   },
   {
-    "revision": "aa0001c8b3765585c6b2",
+    "revision": "34172032f078de0e52a9",
     "url": "/css/chunk-vendors.968d9803.css"
   },
   {
-    "revision": "13399f10419b2fff4ff6",
-    "url": "/css/views.5ac4cf75.css"
+    "revision": "b0bfbbc3974bce5acbae",
+    "url": "/css/views.9cb7dbe9.css"
   },
   {
-    "revision": "fcc09e89edb7904c393b3ffd64920636",
+    "revision": "292f07ca8a540d833c03ff08c18d276a",
     "url": "/ddhelper.user.js"
   },
   {
@@ -92,6 +92,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/fa-solid-900.7a5de9b0.svg"
   },
   {
+    "revision": "7c05517c8e19e5a34831ebbd7324fb65",
+    "url": "/img/template/bilibili.png"
+  },
+  {
     "revision": "f2026fa0dbfcfa2410c60ce5065ccf64",
     "url": "/img/template/bnj2020.png"
   },
@@ -100,20 +104,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/template/hololive.webp"
   },
   {
-    "revision": "70f014dde813441b70006010c7b05767",
+    "revision": "0a9aaf315c9ad9c1662025746c696ffd",
     "url": "/index.html"
   },
   {
-    "revision": "d519250f74fab5dd6d92",
-    "url": "/js/app.2efbfa0a.js"
+    "revision": "7041355b3771f2c2e3f5",
+    "url": "/js/app.2274ccef.js"
   },
   {
-    "revision": "aa0001c8b3765585c6b2",
-    "url": "/js/chunk-vendors.3e91d7fe.js"
+    "revision": "34172032f078de0e52a9",
+    "url": "/js/chunk-vendors.4b068243.js"
   },
   {
-    "revision": "13399f10419b2fff4ff6",
-    "url": "/js/views.38aef8a8.js"
+    "revision": "b0bfbbc3974bce5acbae",
+    "url": "/js/views.89c2626c.js"
   },
   {
     "revision": "35106f4a86290808570a9fcdca0d5211",
