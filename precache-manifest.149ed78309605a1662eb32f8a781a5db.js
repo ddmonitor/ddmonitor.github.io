@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/audio/sss.mp3"
   },
   {
-    "revision": "c8fb27601b886490db3d",
+    "revision": "66e2e0ffde7193371648",
     "url": "/css/app.d2d9487b.css"
   },
   {
@@ -120,12 +120,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/yagoo.png"
   },
   {
-    "revision": "9059361dd6d5c2b7c3f1e17b5cbb4f3a",
+    "revision": "417aa04ff3231c8968bf0358af8725a5",
     "url": "/index.html"
   },
   {
-    "revision": "c8fb27601b886490db3d",
-    "url": "/js/app.75ee25bf.js"
+    "revision": "66e2e0ffde7193371648",
+    "url": "/js/app.f8bd3311.js"
   },
   {
     "revision": "5a3fb0c6f6c753eac482",
