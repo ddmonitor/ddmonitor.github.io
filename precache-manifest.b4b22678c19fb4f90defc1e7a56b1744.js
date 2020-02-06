@@ -4,19 +4,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/audio/sss.mp3"
   },
   {
-    "revision": "66e2e0ffde7193371648",
-    "url": "/css/app.d2d9487b.css"
+    "revision": "95c89b40318434b7da5a",
+    "url": "/css/app.bf286a99.css"
   },
   {
-    "revision": "5a3fb0c6f6c753eac482",
+    "revision": "605fda2a9b0c68473696",
     "url": "/css/chunk-vendors.968d9803.css"
   },
   {
-    "revision": "ee28913a427643edd79f",
-    "url": "/css/views.2f9987b6.css"
+    "revision": "1d3fc540f947ce1ea09c",
+    "url": "/css/views.4eeb9346.css"
   },
   {
-    "revision": "292f07ca8a540d833c03ff08c18d276a",
+    "revision": "6c4be3cf387ad7f84dc05be9814729c8",
     "url": "/ddhelper.user.js"
   },
   {
@@ -120,20 +120,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/yagoo.png"
   },
   {
-    "revision": "417aa04ff3231c8968bf0358af8725a5",
+    "revision": "46cb298092e0f75acb0fe7505e5ea8e3",
     "url": "/index.html"
   },
   {
-    "revision": "66e2e0ffde7193371648",
-    "url": "/js/app.f8bd3311.js"
+    "revision": "95c89b40318434b7da5a",
+    "url": "/js/app.cc3605fd.js"
   },
   {
-    "revision": "5a3fb0c6f6c753eac482",
-    "url": "/js/chunk-vendors.b6a66c00.js"
+    "revision": "605fda2a9b0c68473696",
+    "url": "/js/chunk-vendors.3630d03c.js"
   },
   {
-    "revision": "ee28913a427643edd79f",
-    "url": "/js/views.696457c2.js"
+    "revision": "1d3fc540f947ce1ea09c",
+    "url": "/js/views.cb832cf3.js"
   },
   {
     "revision": "35106f4a86290808570a9fcdca0d5211",
