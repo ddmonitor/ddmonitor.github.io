@@ -452,7 +452,7 @@ function _getLiveInfo() {
 }
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  test: /(localhost:8080\/#\/|ddmonitor\.github\.io)/,
+  test: /(localhost:8080\/#\/|ddmonitor\.github\.io|ddmonitor\.site)/,
   mode: "top",
   inject: function inject() {
     self.addEventListener("message", function (e) {
